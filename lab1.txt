@@ -1,2 +1,2 @@
 hello world
-its branch2
+это ветка 2
