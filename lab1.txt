@@ -1,4 +1,2 @@
 hello world
-its my first branch
-342342
-изменения в ветке branch1
+first branch
